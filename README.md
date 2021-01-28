@@ -1,8 +1,5 @@
-### Hi there 👋
+### Hi there my name is Sara👋 
 
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Personal Projects / Family Promise Project
 - 🌱 I’m currently learning ... Node.js
