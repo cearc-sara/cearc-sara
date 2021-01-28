@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**cearc-sara/cearc-sara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Personal Projects / Family Promise Project
+- 🌱 I’m currently learning ... Node.js
+- 👯 I’m looking to collaborate on ... anything
+- 🤔 I’m looking for help with ... anything
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/sara-cearc/)
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: ... I love to read Rick Riordan, J.K. Rowling, and many others. I love coding and learning new program languages. Always willing to learn new things. I love spending time with my family, playing games, going for walks, spending time with friends. 
+
