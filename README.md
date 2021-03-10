@@ -1,7 +1,7 @@
 ### Hi there my name is Sara👋 
 
 
-- 🔭 I’m currently working on ... Personal Projects / Reach LMS
+- 🔭 I’m currently working on ... Personal Projects
 - 🌱 I’m currently learning ... Node.js
 - 👯 I’m looking to collaborate on ... anything
 - 🤔 I’m looking for help with ... anything
