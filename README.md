@@ -2,7 +2,7 @@
 
 ---
 
-![cover]()
+![cover](https://github.com/cearc-sara/cearc-sara/blob/main/images/coverPhoto.gif)
 
 - 🔭 Completed full stack web development at Lambda School. 
 - 🌱 I’m currently brushing up my skills and plan to learn Next.js.  
