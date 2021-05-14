@@ -5,7 +5,7 @@
 ![cover](https://github.com/cearc-sara/cearc-sara/blob/main/images/coverPhoto.gif)
 
 - 🔭 Completed full stack web development at Lambda School. 
-- 🌱 I’m currently brushing up my skills and plan to learn Next.js.  
+- 🌱 I’m currently brushing up my skills and learning Java/SDET.  
 - 👯 I’m looking for a company where I can put my skills to use.
 - ⚡ I am working on a couple personal projects for family/friends. 
 
@@ -43,9 +43,9 @@
 <hr/>
 <a href="https://github.com/cearc-sara/cearc-sara">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cearc-sara&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cearc-sara&hide=java,html&title_color=CE33FF&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/cearc-sara/cearc-sara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cearc-sara&show_icons=true&line_height=27&count_private=true&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sara's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cearc-sara&show_icons=true&line_height=27&count_private=true&title_color=CE33FF&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sara's GitHub Stats" />
 </a>
