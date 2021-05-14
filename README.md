@@ -17,6 +17,7 @@
    <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
    <a href="https://html.com/html5/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
    <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+   <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
    <a href="http://expressjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
    <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
