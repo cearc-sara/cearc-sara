@@ -34,9 +34,8 @@
 
 ### Lets Connect!
 <p align="left">
-<a href="https://twitter.com/CearcSara/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 <a href="https://www.linkedin.com/in/sara-cearc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
-<a href="mailto:scearc930@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
+<a href="mailto:sara.cearc@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gcp" width="40" height="40"/> </a>  </a>&nbsp
 </p>
 
 
