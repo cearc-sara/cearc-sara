@@ -5,7 +5,7 @@
 ![cover](https://github.com/cearc-sara/cearc-sara/blob/main/images/coverPhoto.gif)
 
 - 🔭 Completed full stack web development at Lambda School. 
-- 🌱 I’m currently brushing up my skills and learning Java/SDET.  
+- 🌱 I’m currently pursuing my BS in Computer Science at SNHU.  
 - 👯 I’m looking for a company where I can put my skills to use.
 - ⚡ I am working on a couple personal projects for family/friends. 
 
